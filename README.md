@@ -1,7 +1,7 @@
 ### Hi there, my name is João Miguel👋
 
 <div align="center">
-  <a href="https://github.com/guilhermeaugustodsd">
+  <a href="https://github.com/jmanacleto">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermeaugustodsd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaugustodsd&layout=compact&langs_count=7&theme=dark"/>
 </div>
