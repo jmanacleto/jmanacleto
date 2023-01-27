@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **data banks**
+- 🌱 I’m currently learning **IA**
 
-- 🤝 I’m looking for help with **IA and automation with Python**
+- 🤝 I’m looking for help with **IA and automation**
 
 - 📫 How to reach me **jmanacleto01@outlook.com**
 
