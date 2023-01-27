@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **IA**
 
-- 🤝 I’m looking for help with **IA and automation**
-
 - 📫 How to reach me **jmanacleto01@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
