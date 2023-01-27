@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **IA**
+- 🌱 I’m currently learning **Artificial Inteligence**
 
 - 📫 How to reach me **jmanacleto01@outlook.com**
 
