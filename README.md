@@ -13,10 +13,12 @@
   <a href="https://www.instagram.com/jmanaclet/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="35" alt="instagram logo"  />
   </a>
-  <a href="jmanacleto01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="35" alt="gmail logo"  />
+  <a href="https://t.me/jmanacleto" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="35" alt="telegram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="35" alt="discord logo"  />
+  <a href="https://twitter.com/jmanaclet" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
