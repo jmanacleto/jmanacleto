@@ -1,46 +1,21 @@
-<p align="center">Hi 👋, I'm João Miguel Anacleto</p>
+# 💫 About Me:
+<br>Hi 👋, I'm João Miguel Anacleto<br><br>🔭 I’m currently working on Python Projects<br><br>🌱 I’m currently learning Artificial Inteligence<br><br>📫 How to reach me jmanacleto01@outlook.com<br><br>Connect with me:
 
-###
 
-<p align="center">🔭 I’m currently working on Python Projects<br><br>🌱 I’m currently learning Artificial Inteligence<br><br>📫 How to reach me jmanacleto01@outlook.com<br><br>Connect with me:</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmanaclet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaomiguelanacleto) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jmanaclet) 
 
-###
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jmanacleto&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jmanacleto&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmanacleto&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/joaomiguelanacleto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jmanaclet/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/jmanacleto" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://twitter.com/jmanaclet" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="35" alt="twitter logo"  />
-  </a>
-</div>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=jmanaclet)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=jmanacleto&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=chartreuse-dark&locale=en&hide_border=true&username=jmanacleto" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&username=jmanacleto" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="62" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="62" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" width="62" alt="googlecloud logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" width="62" alt="r logo"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
