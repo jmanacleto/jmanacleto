@@ -1,5 +1,5 @@
 # About Me:
-<br>Hi, I'm João Miguel Anacleto<br><br>🔭 I’m currently working on Python Projects<br><br>🌱 I’m currently learning Artificial Inteligence<br><br>📫 How to reach me jmanacleto01@outlook.com<br><br>Connect with me:
+<br>Hi, I'm João Miguel Anacleto<br><br>I’m currently working on Python Projects<br><br>I’m currently learning Artificial Inteligence<br><br>How to reach me jmanacleto01@outlook.com<br><br>Connect with me:
 
 
 ## 📱 Socials:
