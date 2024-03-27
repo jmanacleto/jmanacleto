@@ -1,5 +1,5 @@
 # About Me:
-<br>Hi, I'm João Miguel Anacleto<br><br>I’m currently working on Python Projects<br><br>I’m currently learning Artificial Inteligence<br><br>How to reach me jmanacleto01@outlook.com<br><br>Connect with me:
+<br>Hello there! I'm João Miguel Anacleto, a data science and machine learning student currently pursuing my undergraduate degree. My ultimate goal is to become an Artificial Intelligence engineer, and I'm passionate about leveraging Python and R to achieve this. Join me on my journey as I explore the fascinating world of data science and machine learning.<br>Connect with me:
 
 
 ## 📱 Socials:
