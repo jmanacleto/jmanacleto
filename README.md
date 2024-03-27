@@ -20,7 +20,7 @@
 
 ###
 
-# 💻 Tech Stack:
+# Tech Stack:
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -42,7 +42,7 @@
 </div>
 
 ###
-# 🧪 GitHub Stats:
+# GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmanacleto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jmanacleto&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
