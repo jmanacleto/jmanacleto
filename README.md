@@ -3,20 +3,7 @@
 
 
 ## Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/joaomiguelanacleto" target="_blank">
-    <img src="file:///C:/Users/joaoanacleto/AppData/Local/Temp/980886a1-8349-47d3-9d9c-338ea6fa7b20_Design%20sem%20nome%20(1).zip.b20/1.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jmnclto/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/jmanaclet" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
-  </a>
-  <a href="jmanacleto@outlook.com.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="42" height="30" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jmnclto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jmanacleto) 
 
 ###
 
