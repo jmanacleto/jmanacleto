@@ -5,7 +5,7 @@
 ## Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/joaomiguelanacleto" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="file:///C:/Users/joaoanacleto/AppData/Local/Temp/980886a1-8349-47d3-9d9c-338ea6fa7b20_Design%20sem%20nome%20(1).zip.b20/1.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/jmnclto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
