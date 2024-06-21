@@ -1,5 +1,6 @@
 # About Me:
-<br>Olá! Sou João Miguel Anacleto, estudante de ciência de dados e aprendizado de máquina e atualmente cursando graduação. Meu objetivo final é me tornar um engenheiro de Inteligência Artificial, e sou apaixonado por aproveitar Python e R para conseguir isso. <br>Junte-se a mim em minha jornada enquanto exploro o fascinante mundo da ciência de dados, IA e do aprendizado de máquina.<br>
+<br>Olá! Sou João Miguel Anacleto, estudante de Ciência de Dados e Aprendizado de Máquina atualmente cursando graduação. Meu objetivo é me tornar um engenheiro de Inteligência Artificial, e tenho um forte interesse em utilizar Python e R para alcançar esse objetivo.<br>
+<br>Junte-se a mim nesta jornada enquanto exploramos o fascinante mundo da Ciência de Dados, IA e Aprendizado de Máquina.<br>
 --------------------------
 <br>Hello there! I'm João Miguel Anacleto, a data science and machine learning student currently pursuing my undergraduate degree. My ultimate goal is to become an Artificial Intelligence engineer, and I'm passionate about leveraging Python and R to achieve this. <br>Join me on my journey as I explore the fascinating world of data science, AI and machine learning.<br> <br>Connect with me:<br>
 
