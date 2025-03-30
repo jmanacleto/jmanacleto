@@ -18,7 +18,9 @@ ________________________________________________________________________________
 ###
 # GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmanacleto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+![](https://github-readme-stats.vercel.app/api?username=jmanacleto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jmanacleto&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmanacleto&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ###
