@@ -1,7 +1,7 @@
 # About Me:
-<br>Olá! Sou João Miguel Anacleto, estudante de Ciência de Dados e Aprendizado de Máquina atualmente cursando graduação e cientista de dados Jr na empresa Oper Data.<br>
+<br>Olá! Sou João Miguel Anacleto, estudante de Ciência de Dados e Aprendizado de Máquina.<br>
 __________________________________________________________________________________________________________________________________
-<br>Hello! I'm João Miguel Anacleto, a Data Science and Machine Learning student currently studying for my undergraduate degree and a Jr Data Scientist at Oper Data.<br>
+<br>Hello! I'm João Miguel Anacleto, a Data Science and Machine Learning student.<br>
 
 <br>Connect with me:<br>
 
