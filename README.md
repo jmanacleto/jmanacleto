@@ -1,5 +1,5 @@
 # About Me:
-De números a narrativas.  <br>De códigos a soluções.  <br>De dados brutos a decisões inteligentes.  <br><br>Sou João Miguel, Cientista de Dados em formação, apaixonado por transformar complexidade em clareza.  <br>Minha missão é usar estatística, programação e inteligência artificial para resolver problemas reais e gerar valor em escala.  <br>
+De números a narrativas.  <br>De códigos a soluções.  <br>De dados brutos a decisões inteligentes.  <br><br>Sou João Miguel, Cientista de Dados, apaixonado por transformar complexidade em clareza.  <br>Minha missão é usar estatística, programação e inteligência artificial para resolver problemas reais e gerar valor em escala.  <br>
 
 
 ## Socials:
