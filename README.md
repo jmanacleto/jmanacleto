@@ -65,5 +65,4 @@ Atuo na interseção entre **Engenharia de Dados Moderna** (Data Lakehouses com 
 ## Contato
 
 - **LinkedIn:** [linkedin.com/in/joaomiguelanacleto](https://www.linkedin.com/in/joaomiguelanacleto/)
-- **E-mail:** [jmanacleto01@gmail.com](mailto:jmanacleto01@gmail.com)
 - **GitHub:** [github.com/jmanacleto](https://github.com/jmanacleto)
